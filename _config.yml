@@ -9,14 +9,12 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : myBlog
-tagline: Site Tagline
+title : myblog
+tagline: for me
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : mjj
+  email : woshimaijunjinzhen@163.com
+  github : maijunjin
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -55,7 +53,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : http://itistest.github.io/myblog/
+  BASE_PATH : http://maijunjin.github.io/myblog/
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
